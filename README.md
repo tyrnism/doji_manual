@@ -1,5 +1,6 @@
 ---
-coverY: 0
+cover: .gitbook/assets/doji.jpeg
+coverY: -78.04131599081867
 ---
 
 # DojiCrew
