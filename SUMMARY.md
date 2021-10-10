@@ -6,9 +6,9 @@
 
 * [Doji Rarity axis](alpha-leaks/doji-rarity-axis/README.md)
   * [Ranks and Salaries](alpha-leaks/doji-rarity-axis/ranks-and-salaries.md)
-* [Meet the Team!](alpha-leaks/meet-the-team.md)
+  * [Revealed Doji](alpha-leaks/doji-rarity-axis/revealed-doji.md)
+  * [Win/Lose ratio](alpha-leaks/doji-rarity-axis/win-lose-ratio.md)
 
-## The Formal Stuff
+***
 
-* [Requesting Time Off](the-formal-stuff/requesting-time-off.md)
-* [Filing Expenses](the-formal-stuff/filing-expenses.md)
+* [Fleet Coin](fleet-coin.md)
