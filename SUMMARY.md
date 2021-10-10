@@ -12,3 +12,7 @@
 ***
 
 * [Fleet Coin](fleet-coin.md)
+
+## FAQ
+
+* [FAQ](faq/faq.md)
