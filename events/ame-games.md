@@ -4,6 +4,14 @@ Ame72 organised several guessing games during which people had to guess the answ
 
 Winners:
 
-* necrotic -> Red name tag ?
-* suckattrading -> Red name tag ?
-* Bobfell -> Red name tag "Bobfell"
+* Name tag "HELLO MY NAME IS DRAFT BEARD"
+* Name tag "HELLO MY NAME IS BANKSCAT"
+* Name tag "HELLO MY NAME IS 0XSNIPER"
+* Name tag "HELLO MY NAME IS BANKSY'S SHRINK"
+* Name tag "HELLO MY NAME IS XAEFA-18" (Lenorearts)
+* Name tag "HELLO MY NAME IS SLOWHED" 
+* Name tag "HELLO MY NAME IS KINYOZI"
+* Name tag "HELLO MY NAME IS BOBFELL" (Bobfell)
+* Name tag "HELLO MY NAME IS STITCH" (Stitch)
+* Name tag "HELLO MY NAME IS BLEVO"
+* Name tag "HELLO MY NAME IS NECROTIC" (necrotic)\
