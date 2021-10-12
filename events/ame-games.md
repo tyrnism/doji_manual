@@ -1,8 +1,8 @@
 # Ame games
 
-Ame72 organised several guessing games during which people had to guess the answer of a question. Winner were rewarded with a 1/1 red name tag.
+Ame72 organised several guessing games during which people had to guess the answer of a question. Winner were rewarded with a 1/1 name tag.
 
-Winners:
+Prizes:
 
 * Name tag "HELLO MY NAME IS DRAFT BEARD"
 * Name tag "HELLO MY NAME IS BANKSCAT"
