@@ -18,15 +18,15 @@ _Requirement: _In order to use the Courier app, you need to use a browser with M
 
 * **Checking for gift**:
 
-![Enter the Doji ID number in the field (5000 in this example)](<../.gitbook/assets/image (2).png>)
+![Enter the Doji ID number in the field (5000 in this example)](<../.gitbook/assets/image (2) (1).png>)
 
-![After clicking on "View Doji", the Courier app will look for gifts](<../.gitbook/assets/image (4).png>)
+![After clicking on "View Doji", the Courier app will look for gifts](<../.gitbook/assets/image (4) (1).png>)
 
-![In case your Doji has gifts, they will appears on the page](<../.gitbook/assets/image (7).png>)
+![In case your Doji has gifts, they will appears on the page](<../.gitbook/assets/image (7) (1).png>)
 
 * **Claiming gifts**:
 
-![After clicking on "Claim Gifts", the Courier app will lead you to a Gift selection page, on which you will need to select/click the gift(s) you want to claim.](<../.gitbook/assets/image (1).png>)
+![After clicking on "Claim Gifts", the Courier app will lead you to a Gift selection page, on which you will need to select/click the gift(s) you want to claim.](<../.gitbook/assets/image (1) (1).png>)
 
 ![After selecting the gift, click on "Claim Gift", validate the transaction and you will receive your gift](<../.gitbook/assets/image (6).png>)
 
