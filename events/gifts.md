@@ -27,6 +27,12 @@ Using the Courier app, some Dojis received some NFTs from the Rug team or Ame72 
 * Doji #4278: Doji #94
 * Doji #4500: Ame Tag "HELLO MY NAME IS AME72"
 * Doji #4650: Ame Tag "HELLO MY NAME IS 4650"
-* Doji #4732: Ame Tag "HELLO MY NAME IS BLEV" 
+* Doji #4732: Ame Tag "HELLO MY NAME IS BLEV"
+* Doji #4750: 
+  * Doji #82
+  * Doji #83 
+* Doji #4850: Ame Tag "HELLO MY NAME IS DARTH"
+* Doji #4900: Ame Tag "HELLO MY NAME IS TROOPER"
 * Doji #5000: Mutant Ape Yatch Club #4149
+* Doji #5025: Ame Tag "HELLO MY NAME IS SEVER"
 * Doji #7293: Mutant Ape Yatch Club #7293
