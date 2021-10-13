@@ -1,19 +1,23 @@
 # Ame games
 
-Ame72 organised several guessing games during which people had to guess the answer of a question. Winners were rewarded with a 1/1 "Ame tag". 
+Ame72 organised several guessing games during which people had to guess the answer of a question. Winners were rewarded with a 1/1 "_Ame tag_". 
 
-The complete set of "Ame tags" can be seen at https://opensea.io/collection/ame-tags
+The complete set of "_Ame tags_" can be seen at:
 
-Prizes:
+{% embed url="https://opensea.io/collection/ame-tags" %}
+Ame tags collection on OpenSea
+{% endembed %}
 
-* Ame tag "HELLO MY NAME IS DRAFT BEARD"
-* Ame tag "HELLO MY NAME IS BANKSCAT"
-* Ame tag "HELLO MY NAME IS 0XSNIPER"
-* Ame tag "HELLO MY NAME IS BANKSY'S SHRINK"
-* Ame tag "HELLO MY NAME IS XAEFA-18" (Lenorearts)
-* Ame tag "HELLO MY NAME IS SLOWHED" 
-* Ame tag "HELLO MY NAME IS KINYOZI"
-* Ame tag "HELLO MY NAME IS BOBFELL" (Bobfell)
-* Ame tag "HELLO MY NAME IS STITCH" (Stitch)
-* Ame tag "HELLO MY NAME IS BLEVO"
-* Ame tag "HELLO MY NAME IS NECROTIC" (necrotic)\
+**Winner and prizes**:
+
+* Winner: _**DraftBeard**_, Prize: Ame tag "_HELLO MY NAME IS DRAFT BEARD_"
+* Winner: _**?**_, Prize: Ame tag "_HELLO MY NAME IS BANKSCAT_"
+* Winner: _**0xSniper**_, Prize: Ame tag "_HELLO MY NAME IS 0XSNIPER_"
+* Winner: _**?**_, Prize: Ame tag "_HELLO MY NAME IS BANKSY'S SHRINK_"
+* Winner: _**Lenorearts**_, Prize: Ame tag "_HELLO MY NAME IS XAEFA-18_"
+* Winner: _**?**_, Prize: Ame tag "_HELLO MY NAME IS SLOWHED_" 
+* Winner: _**?**_, Prize: Ame tag "_HELLO MY NAME IS KINYOZI_"
+* Winner: _**Bobfell**_, Prize: Ame tag "_HELLO MY NAME IS BOBFELL_"
+* Winner: _**Stitch**_, Prize: Ame tag "_HELLO MY NAME IS STITCH_" 
+* Winner: _**?**_, Prize: Ame tag "_HELLO MY NAME IS BLEVO_"
+* Winner: _**necrotic**_, Prize: Ame tag "_HELLO MY NAME IS NECROTIC_"\
