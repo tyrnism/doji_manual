@@ -20,4 +20,4 @@ _Requirement: _In order to use the Reveal app, you need to use a browser with Me
 
 ![Confirm and "Sign" with your wallet](<../.gitbook/assets/image (8).png>)
 
-![Congrats for your beautiful Doji ](<../.gitbook/assets/image (4).png>)
+![Congrats for your beautiful Doji ](<../.gitbook/assets/image (4) (1).png>)

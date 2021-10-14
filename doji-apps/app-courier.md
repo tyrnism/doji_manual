@@ -20,7 +20,7 @@ _Requirement: _In order to use the Courier app, you need to use a browser with M
 
 ![Enter the Doji ID number in the field (5000 in this example)](<../.gitbook/assets/image (2) (1).png>)
 
-![After clicking on "View Doji", the Courier app will look for gifts](<../.gitbook/assets/image (4) (1).png>)
+![After clicking on "View Doji", the Courier app will look for gifts](<../.gitbook/assets/image (4) (1) (1).png>)
 
 ![In case your Doji has gifts, they will appears on the page](<../.gitbook/assets/image (7) (1).png>)
 
