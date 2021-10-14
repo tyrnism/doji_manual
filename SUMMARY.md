@@ -11,6 +11,8 @@
 
 * [App: Courier](doji-apps/app-courier.md)
 * [App: Naming and Reveal](doji-apps/app-naming-and-reveal.md)
+* [App: Salary](doji-apps/app-salary.md)
+* [App: Customizer](doji-apps/app-customizer.md)
 
 ## Events
 
