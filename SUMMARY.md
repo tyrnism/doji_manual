@@ -1,10 +1,10 @@
 # Table of contents
 
-* [DojiCrew](README.md)
+* [DOJICREW](README.md)
 
 ## General information
 
-* [What is DojiCrew?](general-information/what-is-dojicrew.md)
+* [What is DOJICREW?](general-information/what-is-dojicrew.md)
 * [What are Zingots?](general-information/what-are-zingots.md)
 
 ## Doji apps
@@ -21,9 +21,9 @@
 
 ## Alpha Leaks
 
-* [Doji Rarity axis](alpha-leaks/doji-rarity-axis/README.md)
+* [DOJI Rarity axis](alpha-leaks/doji-rarity-axis/README.md)
   * [Ranks and Salaries](alpha-leaks/doji-rarity-axis/ranks-and-salaries.md)
-  * [Doji parts](alpha-leaks/doji-rarity-axis/revealed-doji.md)
+  * [DOJI parts](alpha-leaks/doji-rarity-axis/revealed-doji.md)
   * [Win/Lose ratio](alpha-leaks/doji-rarity-axis/win-lose-ratio.md)
 * [Fleet Coin](alpha-leaks/fleet-coin.md)
 
