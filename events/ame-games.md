@@ -19,7 +19,7 @@ Ame tags collection on OpenSea
 * Winner: _**Kinyozi**_, Prize: Ame tag "_HELLO MY NAME IS KINYOZI_"
 * Winner: _**Bobfell**_, Prize: Ame tag "_HELLO MY NAME IS BOBFELL_"
 * Winner: _**Stitch**_, Prize: Ame tag "_HELLO MY NAME IS STITCH_" 
-* Winner: _**?**_, Prize: Ame tag "_HELLO MY NAME IS BLEVO_"
+* Winner: _**sucksattrading**_, Prize: Ame tag "_HELLO MY NAME IS BLEVO_"
 * Winner: _**necrotic**_, Prize: Ame tag "_HELLO MY NAME IS NECROTIC_"
 * Winner: _**sprkyd | Dapper Dinos**_, Prize: Ame tag "_HELLO MY NAME IS SPRKYD_"
 
