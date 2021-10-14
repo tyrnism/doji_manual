@@ -1,20 +1,16 @@
-# Revealed Doji
+# Doji parts
 
-Doji can be revealed with the reveal tool on the dojicrew website:
+Doji can be revealed with the Reveal app on the dojicrew website (see [here](../../doji-apps/app-naming-and-reveal.md)). After reveal, the Doji appearance is displayed and can be be divided in different parts. Each part has different possible appearances, some rarer than other. This part appearance is one of the rarity axis of the Dojis.
 
-{% embed url="https://dojicrew.com/reveal" %}
-Dojicrew website -> Reveal app
-{% endembed %}
+In the future, owners will be able to remove Doji's parts to use them for another Doji, or to resell them. 
 
-After selecting your Doji, you will be able to name it and then reveal it. After the reveal animation, the revealed Doji will appear before your eyes, with some probabilities indicating the rarity (on reveal) of each parts. 
-
-The rarity of each parts are being collected by the community and are available here:
+(Work in progress) The rarity of each parts are being collected by the community and are available here:
 
 {% embed url="https://docs.google.com/spreadsheets/d/1jjBPMAQVCvbYCpoCzhXnRI8Y1wzLpIUHO9yi4A6F6qE/edit?usp=sharing" %}
 Google sheet of the part probabilities on reveal
 {% endembed %}
 
-Note:
+**Note**:
 
 * You can see the probabilities screen each time you rename your Doji
 * The background type and background color always have the same probabilities, they do not indicate the probability to have either this specific background type or this specific background color, but the probability to have this set of background type and color.

@@ -21,7 +21,7 @@
 
 * [Doji Rarity axis](alpha-leaks/doji-rarity-axis/README.md)
   * [Ranks and Salaries](alpha-leaks/doji-rarity-axis/ranks-and-salaries.md)
-  * [Revealed Doji and parts](alpha-leaks/doji-rarity-axis/revealed-doji.md)
+  * [Doji parts](alpha-leaks/doji-rarity-axis/revealed-doji.md)
   * [Win/Lose ratio](alpha-leaks/doji-rarity-axis/win-lose-ratio.md)
 * [Fleet Coin](alpha-leaks/fleet-coin.md)
 
