@@ -30,12 +30,12 @@ _Requirement: _In order to use the Courier app, you need to use a browser with M
 
 ![After selecting the gift, click on "Claim Gift", validate the transaction and you will receive your gift](<../.gitbook/assets/image (6).png>)
 
-![You can't claim gift from Doji you don't own however ](<../.gitbook/assets/image (5).png>)
+![You can't claim gift from Doji you don't own however ](<../.gitbook/assets/image (5) (1).png>)
 
 * **Sending gifts**:
 
 ![After clicking on "Send Gift", the Courier app will show your NFT collection, from which you can select the gift you want to send](../.gitbook/assets/image.png)
 
-![Select a NFT, click and "Send", and then "Confirm" on the following page](<../.gitbook/assets/image (3).png>)
+![Select a NFT, click and "Send", and then "Confirm" on the following page](<../.gitbook/assets/image (3) (1).png>)
 
 You will have to validate two transactions to send the gift: a first transaction to "authorize" the contract to access your NFT, and a second transaction to properly send the NFT to the Doji.
