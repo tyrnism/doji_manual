@@ -12,7 +12,7 @@ Reveal app
 
 _Requirement: _In order to use the Reveal app, you need to use a browser with MetaMask installed, and connected on Ethereum mainnet.
 
-![After connecting your wallet, the app will display your Doji collection](<../.gitbook/assets/image (1).png>)
+![After connecting your wallet, the app will display your Doji collection](<../.gitbook/assets/image (1) (1).png>)
 
 ![Select an unrevealed Doji to name and reveal it, or an already revealed Doji to rename it, and click on "Next"](<../.gitbook/assets/image (7).png>)
 
