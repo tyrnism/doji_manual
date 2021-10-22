@@ -7,3 +7,5 @@
   * The first 25% of new custom upgrade sets will be reserved for "Fleet coin" holders
   * A “Fleet coin” full of unrevealed DOJI will come with a reward trait set
   * A “Fleet coin” full of frozen unrevealed DOJI will give a better reward trait set
+
+![Sneak peak of Frozen Unrevealed Fleet Coin (left) and of the Unrevealed Fleet Coin (right)](<../.gitbook/assets/image (1).png>)

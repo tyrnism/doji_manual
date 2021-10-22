@@ -1,6 +1,6 @@
 # App: Courier
 
-The courier app was the first new tech released by the DOJI project, it allows DOJIs to receive gifts: The DOJI itself receive the gift, not its owner. This implies non-minted DOJIs can receive gifts. 
+The courier app was the first new tech released by the DOJI project, it allows DOJIs to receive gifts: The DOJI itself receive the gift, not its owner. This implies non-minted DOJIs can receive gifts.&#x20;
 
 The courier app is available here:
 
@@ -26,7 +26,7 @@ _Requirement: _In order to use the Courier app, you need to use a browser with M
 
 * **Claiming gifts**:
 
-![After clicking on "Claim Gifts", the Courier app will lead you to a Gift selection page, on which you will need to select/click the gift(s) you want to claim.](<../.gitbook/assets/image (1) (1) (1).png>)
+![After clicking on "Claim Gifts", the Courier app will lead you to a Gift selection page, on which you will need to select/click the gift(s) you want to claim.](<../.gitbook/assets/image (1) (1) (1) (1).png>)
 
 ![After selecting the gift, click on "CLAIM GIFT", validate the transaction and you will receive your gift](<../.gitbook/assets/image (6).png>)
 
@@ -34,7 +34,7 @@ _Requirement: _In order to use the Courier app, you need to use a browser with M
 
 * **Sending gifts**:
 
-![After clicking on "SEND GIFT Gift", the Courier app will show your NFT collection, from which you can select the gift you want to send](<../.gitbook/assets/image (1).png>)
+![After clicking on "SEND GIFT Gift", the Courier app will show your NFT collection, from which you can select the gift you want to send](<../.gitbook/assets/image (1) (1).png>)
 
 ![Select a NFT, click and "Send", and then "Confirm" on the following page](<../.gitbook/assets/image (3) (1).png>)
 
