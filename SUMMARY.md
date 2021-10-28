@@ -5,7 +5,7 @@
 ## General information
 
 * [What is DOJICREW?](general-information/what-is-dojicrew.md)
-* [What are Zingots?](general-information/what-are-zingots.md)
+* [What are $ZINGOTs?](general-information/what-are-zingots.md)
 
 ## Doji apps
 
