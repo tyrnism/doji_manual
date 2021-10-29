@@ -9,7 +9,8 @@
 
 ## Doji apps
 
-* [App: Courier](doji-apps/app-courier.md)
+* [App: Courier](doji-apps/app-courier/README.md)
+  * [OpenSea lazy mint NFTs](doji-apps/app-courier/opensea-lazy-mint-nfts.md)
 * [App: Naming and Reveal](doji-apps/app-naming-and-reveal.md)
 * [\[Alpha\] App: Salary](doji-apps/alpha-app-salary.md)
 * [\[Alpha\] App: Customizer](doji-apps/alpha-app-customizer.md)
