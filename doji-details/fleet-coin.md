@@ -1,6 +1,12 @@
-# Fleet Coin
+# \[Alpha] Fleet Coin
 
-* Holding one DOJI of each rank will allow to you to mint a “Fleet coin” which will show the appearance of the DOJIs at the time of the coin creation
+_Informations regarding the Fleet Coin are not completed. This is an **Alpha** page._
+
+Also called, "1-9 coin", the "Fleet Coin" is a special NFT granting advantages to their owners. It can be minted by holding one DOJI of each rank (i.e. one rank 1 DOJI, one rank 2 DOJI, etc.).&#x20;
+
+Current informations are:
+
+* The coin image will show the appearance (at the mint time) of the DOJIs used to mint it.&#x20;
 * One DOJI can be part of only one “Fleet coin”, ever
 * "Fleet coin" utility:
   * Holding a "Fleet coin" will allow first-in-line access to future custom upgrade sets from Ame72

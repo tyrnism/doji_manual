@@ -11,21 +11,22 @@
 
 * [App: Courier](doji-apps/app-courier.md)
 * [App: Naming and Reveal](doji-apps/app-naming-and-reveal.md)
-* [App: Salary](doji-apps/app-salary.md)
-* [App: Customizer](doji-apps/app-customizer.md)
+* [\[Alpha\] App: Salary](doji-apps/alpha-app-salary.md)
+* [\[Alpha\] App: Customizer](doji-apps/alpha-app-customizer.md)
+
+## DOJI details
+
+* [DOJI Salary](doji-details/doji-salary.md)
+* [DOJI Rarity axis](doji-details/doji-rarity-axis/README.md)
+  * [Ranks and Salaries](doji-details/doji-rarity-axis/ranks-and-salaries.md)
+  * [DOJI parts](doji-details/doji-rarity-axis/revealed-doji.md)
+  * [\[Alpha\] Win/Lose ratio](doji-details/doji-rarity-axis/win-lose-ratio.md)
+* [\[Alpha\] Fleet Coin](doji-details/fleet-coin.md)
 
 ## Events
 
 * [Ame games](events/ame-games.md)
 * [Gifts](events/gifts.md)
-
-## Alpha Leaks
-
-* [DOJI Rarity axis](alpha-leaks/doji-rarity-axis/README.md)
-  * [Ranks and Salaries](alpha-leaks/doji-rarity-axis/ranks-and-salaries.md)
-  * [DOJI parts](alpha-leaks/doji-rarity-axis/revealed-doji.md)
-  * [Win/Lose ratio](alpha-leaks/doji-rarity-axis/win-lose-ratio.md)
-* [Fleet Coin](alpha-leaks/fleet-coin.md)
 
 ## FAQ
 

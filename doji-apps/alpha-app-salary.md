@@ -1,4 +1,6 @@
-# App: Salary
+# \[Alpha] App: Salary
+
+_Informations regarding the Salary app are not completed. This is an **Alpha** page._
 
 The Salary app allows you to claim your DOJIs earnings.&#x20;
 

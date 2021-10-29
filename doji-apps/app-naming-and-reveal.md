@@ -16,8 +16,8 @@ _Requirement: _In order to use the Reveal app, you need to use a browser with Me
 
 ![Select an unrevealed DOJI to name and reveal it, or an already revealed DOJI to rename it, and click on "Next"](<../.gitbook/assets/image (7).png>)
 
-![Name your DOJI and click on "Continue"](<../.gitbook/assets/image (2).png>)
+![Name your DOJI and click on "Continue"](<../.gitbook/assets/image (2) (1).png>)
 
 ![Confirm and "Sign" with your wallet](<../.gitbook/assets/image (8).png>)
 
-![Congrats for your beautiful DOJI ](<../.gitbook/assets/image (4) (1).png>)
+![Congrats for your beautiful DOJI ](<../.gitbook/assets/image (4) (1) (1).png>)
