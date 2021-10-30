@@ -9,6 +9,9 @@ _**Current status:**_ _The Customizer app is current under development. _
 Some alpha leaks of the Customizer app were released, showing some informations (_**all these informations are alpha and are subjected to change**_) :
 
 * There 15 customisable parts on a DOJI
+
+![](<../.gitbook/assets/image (2).png>)
+
 * The DOJI will earn the Salary of the DOJI batteries (see FAQ) staked on it: in the leak, the DOJI own 42 batteries giving it a salary of 720 $ZINGOTs per day.
 * There are Win and Lose values
 * Coins (like Fleet coin) can be displayed on the DOJI.
@@ -17,5 +20,5 @@ Some alpha leaks of the Customizer app were released, showing some informations 
 
 ![Alpha leak of the customizer app](<../.gitbook/assets/image (4).png>)
 
-![Alpha leak of the customizer app](<../.gitbook/assets/image (2).png>)
+![Alpha leak of the customizer app](<../.gitbook/assets/image (2) (1).png>)
 
