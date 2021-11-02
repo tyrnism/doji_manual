@@ -7,6 +7,10 @@
 * [What is DOJICREW?](general-information/what-is-dojicrew.md)
 * [What are $ZINGOTs?](general-information/what-are-zingots.md)
 
+## DOJI Lore
+
+* [Figs](doji-lore/figs.md)
+
 ## Doji apps
 
 * [App: Courier](doji-apps/app-courier/README.md)
