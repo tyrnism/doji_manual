@@ -15,3 +15,7 @@ Current informations are:
   * A “Fleet coin” full of frozen unrevealed DOJI will give a better reward trait set
 
 ![Sneak peak of Frozen Unrevealed Fleet Coin (left) and of the Unrevealed Fleet Coin (right)](<../.gitbook/assets/image (1).png>)
+
+![Reward traits set for Unrevealed Fleet coin](<../.gitbook/assets/image (3).png>)
+
+![Reward traits set for Unrevealed Frozen Fleet coin](<../.gitbook/assets/image (6).png>)

@@ -22,13 +22,13 @@ _Requirement: _In order to use the Courier app, you need to use a browser with M
 
 ![After clicking on "VIEW DOJI", the Courier app will look for gifts](<../../.gitbook/assets/image (4) (1) (1) (1).png>)
 
-![In case your DOJI has gifts, they will appears on the page](<../../.gitbook/assets/image (7) (1).png>)
+![In case your DOJI has gifts, they will appears on the page](<../../.gitbook/assets/image (7) (1) (1).png>)
 
 * **Claiming gifts**:
 
 ![After clicking on "Claim Gifts", the Courier app will lead you to a Gift selection page, on which you will need to select/click the gift(s) you want to claim.](<../../.gitbook/assets/image (1) (1) (1) (1).png>)
 
-![After selecting the gift, click on "CLAIM GIFT", validate the transaction and you will receive your gift](<../../.gitbook/assets/image (6).png>)
+![After selecting the gift, click on "CLAIM GIFT", validate the transaction and you will receive your gift](<../../.gitbook/assets/image (6) (1).png>)
 
 ![You can't claim gift from DOJI you don't own however ](<../../.gitbook/assets/image (5) (1).png>)
 
@@ -36,6 +36,6 @@ _Requirement: _In order to use the Courier app, you need to use a browser with M
 
 ![After clicking on "SEND GIFT Gift", the Courier app will show your NFT collection, from which you can select the gift you want to send](<../../.gitbook/assets/image (1) (1).png>)
 
-![Select a NFT, click and "Send", and then "Confirm" on the following page](<../../.gitbook/assets/image (3) (1).png>)
+![Select a NFT, click and "Send", and then "Confirm" on the following page](<../../.gitbook/assets/image (3) (1) (1).png>)
 
 You will have to validate two transactions to send the gift: a first transaction to "authorize" the contract to access your NFT, and a second transaction to properly send the NFT to the DOJI.
