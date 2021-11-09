@@ -3,7 +3,7 @@
 In order to mint your DOJI(s) you have two possibilities:&#x20;
 
 * minting from the website (easiest)
-* minting from the contract using a custom ABI (advanced)
+* minting from the contract using a custom ABI (advanced, the ABI can be download from the website, detailed explanations will not be covered here)
 
 The DOJICREW website site can be access from the following link (note: for safety it's better the check the website url in the discord's Directory channel):
 
