@@ -19,7 +19,7 @@ _Note_: You will need to pay 0.044 ETH per DOJI + gas
 
 **Important**:
 
-_**Don't try to mint if the number of DOJI in circulation is already 11 111, you will only lose gas! Check the number of available DOJI on the website before minting. **_
+_**Don't try to mint if the number of DOJI in circulation is already 11 111, you will only lose gas! Check the number of available DOJI on the website before minting (this number will be displayed if your wallet is connected to the webpage). **_
 
 **Minting process**
 
