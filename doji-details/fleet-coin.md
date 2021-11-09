@@ -16,6 +16,6 @@ Current informations are:
 
 ![Sneak peak of Frozen Unrevealed Fleet Coin (left) and of the Unrevealed Fleet Coin (right)](<../.gitbook/assets/image (1).png>)
 
-![\[Preview\] Reward traits set for Unrevealed Fleet coin](<../.gitbook/assets/image (3).png>)
+![\[Preview\] Reward traits set for Unrevealed Fleet coin](<../.gitbook/assets/image (3) (1).png>)
 
 ![​​\[Preview\] Reward traits set for Unrevealed Frozen Fleet coin](<../.gitbook/assets/image (6).png>)

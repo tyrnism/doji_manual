@@ -6,6 +6,7 @@
 
 * [What is DOJICREW?](general-information/what-is-dojicrew.md)
 * [What are $ZINGOTs?](general-information/what-are-zingots.md)
+* [How to mint a DOJI?](general-information/how-to-mint-a-doji.md)
 
 ## DOJI Lore
 
