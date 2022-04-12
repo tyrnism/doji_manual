@@ -27,7 +27,7 @@
   * [Ranks and Salaries](doji-details/doji-rarity-axis/ranks-and-salaries.md)
   * [DOJI parts](doji-details/doji-rarity-axis/revealed-doji.md)
   * [\[Alpha\] Win/Lose ratio](doji-details/doji-rarity-axis/win-lose-ratio.md)
-* [\[Alpha\] Fleet Coin](doji-details/fleet-coin.md)
+* [\[Alpha\] Crew Coin](doji-details/fleet-coin.md)
 
 ## Events
 
