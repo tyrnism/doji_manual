@@ -9,7 +9,6 @@ Current informations are:
 * The coin image will show the appearance (at the mint time) of the DOJIs used to mint it.&#x20;
 * One DOJI can be part of only one “Fleet coin”, ever
 * "Fleet coin" utility:
-  * Holding a "Fleet coin" will allow first-in-line access to future custom upgrade sets from Ame72
   * A “Fleet coin” full of unrevealed DOJI will come with a reward trait set
   * A “Fleet coin” full of frozen unrevealed DOJI will give a better reward trait set
 
